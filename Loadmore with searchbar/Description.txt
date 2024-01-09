@@ -1,0 +1,8 @@
+-> Loadmore work with seachbar
+
+-> The data we got in the JS file was passed into the function file and the response of the function file was passed again into JS. 
+   Got the data uploaded by getting hold of the HTML ID.
+
+-> We sand data in json formet
+
+-> Make it use code correctly and it will work perfectly.
